@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Jogo-SO\SpaceInvaders\SpaceInvaders.jar</jar>
+  <outfile>C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Jogo-SO\SpaceInvaders\SpaceInvaders.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>
+    <path>
+      C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Jogo-SO\SpaceInvaders\src\images\alien.ico
+    </path>
+    <index>0</index>
+    <depth>16</depth>
+  </icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
